@@ -1,0 +1,33 @@
+body{
+    background-color: #eaf6f6;
+}
+
+hr{
+    border-style: dotted none none;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+}
+h1, h3{
+    color: #66bfbf;
+}
+.top-container{
+    background-color: chartreuse;
+    height: 200px;
+    padding: 20px;
+    width: 200px;   
+}
+.mid-container{
+    background-color: rgb(18, 22, 15);
+    position: relative;
+    left: 240px;
+    height: 200px;
+    width: 200px;
+}
+.bottom-container{
+    background-color: rgb(92, 94, 91);
+    position: relative;
+    left: 440px;
+    height: 200px;
+    width: 200px;
+}
